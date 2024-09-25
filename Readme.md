@@ -2,6 +2,7 @@
 
 
 ## Vision
+![WhatsApp Image 2024-09-25 at 14 03 34_6d2e2d61](https://github.com/user-attachments/assets/3e380c88-8ec7-4d23-be44-4028f15bae7a)
 
 The **Charity Drives** smart contract facilitates the creation and management of charity fundraising events on the Aptos blockchain. It aims to streamline the process of organizing charity drives and accepting donations, ensuring transparency and accountability in fundraising efforts.
 
