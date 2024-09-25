@@ -1,4 +1,4 @@
-# Charity Drives Smart Contract![Uploading WhatsApp Image 2024-09-25 at 14.03.34_6d2e2d61.jpg…]()
+# Charity Drives Smart Contract!
 
 
 ## Vision
